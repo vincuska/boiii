@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Games\t7_full_game\patcher.bat", 0, True
